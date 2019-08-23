@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tugas 4 View</string>
+    <string name="deskripsi">ASUS VivoBook 14 adalah kombinasi sempurna antara keindahan dan performa. Didukung oleh prosesor Intel® Core™ i7 generasi ke 8 dengan RAM 8GB dan grafis NVIDIA® GeForce® MX130*. ASUS VivoBook 14 dilengkapi dengan SSD super cepat untuk peningkatan kecepatan baca dan tulis yang drastis.</string>
+    <string name="cpu">IntelCore i5-8250U</string>
+    <string name="ram">4GB / 8GB</string>
+    <string name="internal">1 TB</string>
+    <string name="os">Windows 10</string>
+    <string name="gpu">Nvidia MX130</string>
+    <string name="resolusi">1920 x 1080</string>
+    <string name="raml">4GB / 8GB DDR4</string>
+    <string name="fitur">Fact Charging and LifeSpan</string>
+    <string name="deskription">FujiFilm XA3 kit 16-50mm memiliki resolusi 24.0MP dengan sensor APS-C (23.5 x 15.7 mm ) CMOS dan dilengkapi prosesor EXR Processor II. Anda bisa memotret resolusi maksimal 6000 x 4000 piksel dengan rasio aspek 1: 1, 3: 2 dan 16: 9. FujiFilm XA3 kit 16-50mm memiliki rentang native ISO 200-600 yang dapat ditingkatkan menjadi 100-25600 dan dapat menyimpan file dalam format RAW yang memberi Anda ruang yang lebih luas untuk post processing.</string>
+    <string name="fitur1">24.2MP APS-C CMOS Sensor</string>
+    <string name="fitur2">3″ 920k-Dot 180° Tilting Touchscreen</string>
+    <string name="fitur3">Full HD Video up to 60 fps</string>
+    <string name="fitur4">Built-In Wi-Fi Connectivity</string>
+    <string name="fitur5">77-Point Autofocus System</string>
+    <string name="fitur6">Electronic Shutter up to 1/32000 second</string>
+    <string name="fitur7"><![CDATA[Extended ISO 25600 & 6 fps Shooting]]></string>
+    <string name="fitur8">Film Simulation dan Advanced Filter</string>
+    <string name="app_nama">Kamera</string>
+</resources>
